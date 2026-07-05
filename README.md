@@ -1,41 +1,47 @@
 # Hi, I'm Vignesh Krishna 👋
 
-Aspiring **Enterprise AI Engineer** with a strong interest in building AI-powered applications, Retrieval-Augmented Generation (RAG) systems, and enterprise data platforms.
+Aspiring **Data Scientist & AI Engineer** focused on building intelligent applications, machine learning solutions, and enterprise AI systems, with growing experience in modern data engineering.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 MBA in Business Analytics
-- 💡 Passionate about AI Engineering and Data Engineering
-- 📚 Currently learning Azure, Databricks, Apache Spark, LangGraph, and Enterprise AI Architecture
-- 🚀 Building practical AI projects to strengthen real-world engineering skills
+- 💡 Interested in Data Science, Artificial Intelligence, and Enterprise AI
+- 🚀 Building real-world AI and machine learning projects
+- 📚 Continuously learning cloud technologies and modern data platforms
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-### Languages
+### Programming
 - Python
 - SQL
 
-### AI & Machine Learning
+### Data Science & AI
+- Machine Learning
+- Data Analysis
+- Feature Engineering
+- Pandas
+- NumPy
+- Scikit-learn
+
+### LLM & AI Development
 - LangChain
 - LangGraph
 - ChromaDB
-- Scikit-learn
-- Pandas
-- NumPy
+- Retrieval-Augmented Generation (RAG)
 
-### Data & Analytics
-- Power BI
-- Data Analysis
-- Feature Engineering
-- Machine Learning
+### Data & Cloud (Learning)
+- Apache Spark
+- Databricks
+- Azure Data Services
 
 ### Tools
 - Git & GitHub
 - Docker
+- Power BI
 - VS Code
 - Postman
 
@@ -43,38 +49,44 @@ Aspiring **Enterprise AI Engineer** with a strong interest in building AI-powere
 
 ## 🚀 Featured Projects
 
-### 🏢 AI-Ready Data Platform
-Designing an enterprise-ready platform focused on data ingestion, validation, AI-ready data processing, and intelligent analytics.
+### Enterprise AI Platform
+An enterprise-focused AI platform integrating intelligent analytics, RAG, and scalable AI workflows.
 
-### 🤖 Enterprise RAG System
-Building Retrieval-Augmented Generation systems with LangChain, LangGraph, ChromaDB, and modern LLM workflows.
+### Enterprise RAG System
+A Retrieval-Augmented Generation application built using LangChain, LangGraph, ChromaDB, and modern LLM workflows.
 
-### 📧 AI Email Assistant
-An AI-powered workflow for email summarization, categorization, and response generation using LangGraph.
+### AI Email Assistant
+An AI-powered application for email summarization, categorization, and intelligent response generation.
+
+### Machine Learning Projects
+Real-world machine learning projects covering data preprocessing, feature engineering, model building, and evaluation.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Azure Data Platform
+- Advanced Machine Learning
+- Enterprise AI Architecture
+- Azure AI Services
 - Databricks
 - Apache Spark
-- Enterprise AI Architecture
-- Data Engineering
 - AI Agents
 
 ---
 
 ## 🌐 Portfolio
 
-**Website:** https://vignesh-portfolio-kmzr.vercel.app
+**Portfolio:** https://vignesh-portfolio-kmzr.vercel.app
 
 ---
 
 ## 📫 Connect
 
-- 📧 Email: krishvignesh1015@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/vigneshkrishnar
+📧 krishvignesh1015@gmail.com
 
----
+💼 LinkedIn: www.linkedin.com/in/vigneshkrishnar
+
 ⭐ Thanks for visiting my profile!
+
+
+
