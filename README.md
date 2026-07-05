@@ -1,21 +1,80 @@
-# Hi there, I'm Vignesh 👋
+# Hi, I'm Vignesh Krishna 👋
 
-Aspiring Data Scientist with a strong foundation in analytics and business intelligence.
+Aspiring **Enterprise AI Engineer** with a strong interest in building AI-powered applications, Retrieval-Augmented Generation (RAG) systems, and enterprise data platforms.
 
-## 📊 Skills
+---
 
-* Python for Data Analysis
-* SQL & Data Querying
-* Power BI Dashboards
-* Exploratory Data Analysis
+## 👨‍💻 About Me
 
-## 🚀 Currently Exploring
+- 🎓 MBA in Business Analytics
+- 💡 Passionate about AI Engineering and Data Engineering
+- 📚 Currently learning Azure, Databricks, Apache Spark, LangGraph, and Enterprise AI Architecture
+- 🚀 Building practical AI projects to strengthen real-world engineering skills
 
-* Machine Learning Models
-* Feature Engineering
-* Real-world Data Projects
+---
 
-## 🎯 Focus
+## 🛠️ Tech Stack
 
-Using analytics to support data-driven business decisions.
+### Languages
+- Python
+- SQL
 
+### AI & Machine Learning
+- LangChain
+- LangGraph
+- ChromaDB
+- Scikit-learn
+- Pandas
+- NumPy
+
+### Data & Analytics
+- Power BI
+- Data Analysis
+- Feature Engineering
+- Machine Learning
+
+### Tools
+- Git & GitHub
+- Docker
+- VS Code
+- Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 AI-Ready Data Platform
+Designing an enterprise-ready platform focused on data ingestion, validation, AI-ready data processing, and intelligent analytics.
+
+### 🤖 Enterprise RAG System
+Building Retrieval-Augmented Generation systems with LangChain, LangGraph, ChromaDB, and modern LLM workflows.
+
+### 📧 AI Email Assistant
+An AI-powered workflow for email summarization, categorization, and response generation using LangGraph.
+
+---
+
+## 🌱 Currently Learning
+
+- Azure Data Platform
+- Databricks
+- Apache Spark
+- Enterprise AI Architecture
+- Data Engineering
+- AI Agents
+
+---
+
+## 🌐 Portfolio
+
+**Website:** https://vignesh-portfolio-kmzr.vercel.app
+
+---
+
+## 📫 Connect
+
+- 📧 Email: krishvignesh1015@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/vigneshkrishnar
+
+---
+⭐ Thanks for visiting my profile!
