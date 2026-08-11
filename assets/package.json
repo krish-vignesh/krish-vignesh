@@ -1,0 +1,14 @@
+{
+  "name": "ai-engineer-lab-animation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Code-generated pixel-art animation for the GitHub profile README.",
+  "main": "main.js",
+  "scripts": {
+    "build": "node main.js"
+  },
+  "dependencies": {
+    "canvas": "^3.2.3",
+    "gif-encoder-2": "^1.0.5"
+  }
+}
