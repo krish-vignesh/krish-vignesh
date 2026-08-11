@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./assets/ai-engineer.gif" alt="Vignesh Krishna - AI ML DL Engineer" width="100%">
+
+</div>
+
 # Hi, I'm Vignesh Krishna 👋
 
 Aspiring **Data Scientist & AI Engineer** focused on building intelligent applications, machine learning solutions, and enterprise AI systems, with growing experience in modern data engineering.
